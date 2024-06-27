@@ -1,2 +1,4 @@
 This is a new feature.
 Nah, I don't like this feature.
+
+Wow, what a nice feature.
