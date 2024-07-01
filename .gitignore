@@ -25,6 +25,9 @@ replay_pid*
 
 .idea
 *.bogdan
+*.iml
+out
+target/
 
 
 
